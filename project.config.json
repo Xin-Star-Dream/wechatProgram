@@ -1,0 +1,137 @@
+{
+  "cloudfunctionRoot": "cloudfunctions/",
+  "setting": {
+    "urlCheck": true,
+    "es6": true,
+    "enhance": true,
+    "postcss": true,
+    "preloadBackgroundData": false,
+    "minified": true,
+    "newFeature": true,
+    "coverView": true,
+    "nodeModules": false,
+    "autoAudits": false,
+    "showShadowRootInWxmlPanel": true,
+    "scopeDataCheck": false,
+    "uglifyFileName": false,
+    "checkInvalidKey": true,
+    "checkSiteMap": true,
+    "uploadWithSourceMap": true,
+    "compileHotReLoad": false,
+    "useMultiFrameRuntime": true,
+    "useApiHook": true,
+    "useApiHostProcess": true,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    },
+    "enableEngineNative": false,
+    "bundle": false,
+    "useIsolateContext": true,
+    "useCompilerModule": true,
+    "userConfirmedUseCompilerModuleSwitch": false,
+    "userConfirmedBundleSwitch": false,
+    "packNpmManually": false,
+    "packNpmRelationList": [],
+    "minifyWXSS": true
+  },
+  "appid": "wxbc0d6705c4f02ba2",
+  "projectname": "%E6%80%A7%E5%A5%BD%E6%9C%89%E4%BD%A0",
+  "libVersion": "2.14.1",
+  "cloudfunctionTemplateRoot": "cloudfunctionTemplate",
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "id": -1,
+          "name": "知识库",
+          "pathName": "pages/knowledge/knowledge",
+          "query": "",
+          "scene": ""
+        },
+        {
+          "id": -1,
+          "name": "附录",
+          "pathName": "pages/about/about",
+          "query": "",
+          "scene": ""
+        },
+        {
+          "id": -1,
+          "name": "知识",
+          "pathName": "pages/acticle/acticle",
+          "query": "",
+          "scene": ""
+        },
+        {
+          "id": -1,
+          "name": "时间线",
+          "pathName": "pages/timeline/timeline",
+          "query": "",
+          "scene": ""
+        },
+        {
+          "id": -1,
+          "name": "问题手册",
+          "pathName": "pages/hand_book/hand_book",
+          "query": "",
+          "scene": ""
+        },
+        {
+          "id": -1,
+          "name": "one",
+          "pathName": "pages/one/one",
+          "query": "",
+          "scene": ""
+        },
+        {
+          "id": -1,
+          "name": "快速学习",
+          "pathName": "pages/learn/learn",
+          "query": "",
+          "scene": ""
+        },
+        {
+          "name": "banner",
+          "pathName": "pages/banner/banner",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "demo",
+          "pathName": "pages/demo/demo",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "add",
+          "pathName": "pages/add/add",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "search",
+          "pathName": "pages/search/search",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "questionaire",
+          "pathName": "pages/questionaire/questionaire",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}
